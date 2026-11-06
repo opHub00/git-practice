@@ -6,6 +6,3 @@ jobs:
     steps:
       - run: echo "Hello, world"
       - uses: actions/checkout@v4
-test:
-  runs-on: ubuntu-lastest
-  :q!
